@@ -18,7 +18,8 @@
 .base-link a:hover,
 .main-two-card p:hover,
 .news-card a:hover, 
-.footer-col a:hover {
+.footer-col a:hover,
+.link-text:hover {
     text-decoration: underline;
     transform: .3s;
 }
